@@ -4,4 +4,13 @@
 */
 module.exports = exports = function(s1, s2) {
   //  complete the function
+  var newS1 = s1.split('')
+  var newS2 = s2.split('')
+  var commonChar = false
+  for (var i = 0; i < newS1.length; i++) {
+    if (newS2.includes(newS1[i])) {
+      commonChar = true
+    }
+  }
+  if (!commonChar) return -1
 };
