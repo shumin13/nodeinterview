@@ -48,7 +48,8 @@ query("SELECT clientId FROM clients WHERE clientName='picanteverde';", function(
       });
     });
   });
-});```
+});
+```
 
 * Answer:
 
