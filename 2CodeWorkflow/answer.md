@@ -30,5 +30,5 @@
   - Easy to set up authentication for Node.js with passport
 * [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
   - Easy to hash and compare passwords in Node.js
-* [socket.io](hhttps://socket.io/)
-  - Find it super useful for building chat app
+* [socket.io](https://socket.io/)
+  - Useful for building chat app
